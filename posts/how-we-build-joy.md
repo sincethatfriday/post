@@ -6,7 +6,7 @@ tag: "AI"
 excerpt: "We wanted a chatbot that sounds like us, not a robot. Here's how we built Joy using LLaMA and Node.js."
 ---
 
-![Evil eye illustration](https://raw.githubusercontent.com/sincethatfriday/stf-frontend/main/posts/images/evileye.png)
+![Evil eye illustration](https://raw.githubusercontent.com/sincethatfriday/post/main/images/evileye.png)
 
 ## Why we built Joy
 
