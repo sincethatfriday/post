@@ -2,7 +2,7 @@
 title: "How we built Joy — our website chatbot"
 date: "2025-03-28"
 author: "Sam"
-tag: "story"
+tag: "Story"
 excerpt: "We wanted a chatbot that sounds like us, not a robot. Here's how we built Joy using LLaMA and Node.js."
 ---
 
