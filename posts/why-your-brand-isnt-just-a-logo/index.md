@@ -1,13 +1,15 @@
 ---
-title: Why Your Brand Isn't Just a Logo
-excerpt: A logo is a mark. A brand is how someone feels when they see it. Here's why most businesses get this wrong — and what to do instead.
-date: 2026-03-15
-tag: branding
+title: "Why Your Brand Isn't Just a Logo"
+excerpt: "A logo is a mark. A brand is how someone feels when they see it. Here's why most businesses get this wrong — and what to do instead."
+tag: tech
+published_at: "2026-03-15"
+read_time_minutes: 6
 authors:
   - Sam
   - Abi
-video_url: https://youtu.be/1r0eyM7suUg?si=AvnTA5-UUbE_M2LK
-video_title: Prefer watching? We covered this on YouTube
+cover: "cover.jpg"
+video_url: "https://youtu.be/c4Mgp3FWvt0?si=UMeIeCOcxtG4t_ka"
+video_title: "We made a video about this"
 ---
 
 ## The logo trap
@@ -24,6 +26,8 @@ A brand is the full experience. It's the colours you choose and why. It's the wa
 
 It's consistency. It's intention. It's the reason two coffee shops can sell the same flat white, but one of them makes you feel something when you walk in.
 
+![A brand identity system laid out](images/brand-system.jpg "A brand system is more than just a logo — it's an entire language.")
+
 ### The parts most people skip
 
 When we work on brand identity with a client, the logo usually comes last. We start with the parts that are harder to see but impossible to ignore:
@@ -35,12 +39,11 @@ When we work on brand identity with a client, the logo usually comes last. We st
 
 Once those are clear, the logo almost designs itself. Because it finally has something to say.
 
-![Brand identity process](images/inline2.jpg)
-*A brand system is more than just a logo — it's an entire language.*
-
 ## Why this matters for small businesses
 
 Big companies can afford to be forgettable in small moments because they make up for it in volume. You can't. When someone visits your website for the first time, your brand has about three seconds to make them feel something real — or they're gone.
+
+![Colour palette and typography samples](images/colour-typography.jpg "Colour and type are the first things people feel before they read a word.")
 
 That feeling doesn't come from a logo. It comes from every element working together with **intention**. The font that feels just right. The colour that sits perfectly against the background. The spacing that gives your words room to breathe.
 
