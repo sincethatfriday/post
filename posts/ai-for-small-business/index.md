@@ -1,66 +1,58 @@
 ---
-title: "AI for small businesses — where to actually start"
-date: "2025-03-25"
-author: "Sam"
-tag: "AI"
-excerpt: "Everyone is talking about AI. But most small business owners don't know where to start. Here's the honest answer."
+title: "Why Your Brand Isn't Just a Logo"
+excerpt: "A logo is a mark. A brand is how someone feels when they see it."
+tags:
+  - branding
+  - design
+published_at: "2026-03-15"
+read_time_minutes: 6
+authors:
+  - Sam
+  - Abi
+cover: "cover.jpg"
+video_url: ""
+video_title: ""
+og_title: ""
+og_description: ""
+og_image: ""
 ---
 
-![AI for small business](https://raw.githubusercontent.com/sincethatfriday/post/main/images/evileye.png)
+A logo is a mark. A brand is how someone feels when they see it.
+Here's why most businesses get this wrong — and what to do instead.
 
-## Everyone is talking about AI
+## The logo trap
 
-And most of it is noise.
+Here's something we see all the time: a founder walks into
+a conversation and says, "I need a logo." What they actually mean
+is, "I need people to take my business seriously."
 
-"Use AI to 10x your productivity." "Automate everything." "AI will replace your team."
+> A brand isn't what you say about yourself. It's the feeling
+> someone gets before they've read a single word on your website.
 
-None of that is useful if you run a restaurant, a boutique, or a small consulting firm and you just want to know — what can AI actually do for me right now?
+## So what is a brand?
 
-## The honest answer
+A brand is the full experience. It's the colours you choose
+and **why**. It's the way your website feels when someone scrolls.
 
-AI is useful for small businesses in three specific ways:
+### The parts most people skip
 
-**1. Answering repetitive questions**
-If your customers ask the same 10 questions over and over — what are your hours, do you deliver, what's your price — a simple AI chatbot handles all of that without you lifting a finger.
+- **Positioning:** Where do you sit in someone's mind?
+- **Voice:** How do you talk? Formal? Warm? Playful?
+- **Visual system:** Colours, typography, spacing, imagery.
+- **Feeling:** What emotion should someone walk away with?
 
-**2. Writing first drafts**
-Captions, emails, product descriptions, blog posts. AI won't write them perfectly but it gets you 70% of the way there in seconds. You edit, you publish. Faster than starting from scratch.
+![Brand identity process](images/inline1.jpg)
+*A brand system is more than just a logo — it's an entire language.*
 
-**3. Making sense of your numbers**
-Sales data, customer behaviour, which product moves and which doesn't. AI tools can turn a messy spreadsheet into a clear picture of what's working.
 
-## What AI is NOT good for right now
+3. How Quotes Work in Markdown
+Standard markdown blockquote syntax — lines starting with >:
+> A brand isn't what you say about yourself. It's the feeling
+> someone gets before they've read a single word on your website.
 
-- Replacing the human relationship with your customers
-- Making strategic decisions for your business
-- Understanding your specific local context without guidance
+Your API's markdown-to-HTML converter turns this into:
+<blockquote><p>A brand isn't what you say about yourself.
+It's the feeling someone gets before they've read a single
+word on your website.</p></blockquote>
 
-## Where to start
-
-Pick one problem. Just one.
-
-If you get too many WhatsApp enquiries — start with a chatbot.
-If your Instagram is inconsistent — start with AI-assisted content.
-If you don't know which service makes you the most money — start with a simple dashboard.
-
-Don't try to automate everything at once. That's how you waste money and get frustrated.
-
-## How we help
-
-At Since That Friday, we build AI systems that are right-sized for small businesses. Not enterprise tools with enterprise price tags — practical setups that actually get used.
-
-If you want to talk through where AI fits in your business, we offer consulting at ₹1,500 per hour. No fluff, just a clear plan.
-
-📧 hola@sincethatfriday.in
-```
-
----
-
-Commit to `main` then test:
-```
-GET http://localhost:3000/api/blog
-```
-
-You should now see both AI tagged posts in the list. And:
-```
-GET http://localhost:3000/api/blog/tags
+The CSS already handles the rest — cobalt background, periwinkle left border, italic cream text. No special markers needed. You just write > in the markdown and it works.
