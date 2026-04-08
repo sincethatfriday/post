@@ -1,58 +1,113 @@
 ---
-title: "Why Your Brand Isn't Just a Logo"
-excerpt: "A logo is a mark. A brand is how someone feels when they see it. Here's why most businesses get this wrong — and what to do instead."
-tag: tech
-published_at: "2026-03-15"
+title: "What is the Halo Effect (and Why It Matters More Than You Think)"
+excerpt: "A simple breakdown of the halo effect with real-world examples and how it quietly shapes how people see your brand."
+tag: branding
+published_at: "2026-04-15"
 read_time_minutes: 6
 authors:
   - Sam
   - Abi
-cover: "cover.jpeg"
-video_url: "https://youtu.be/c4Mgp3FWvt0?si=UMeIeCOcxtG4t_ka"
-video_title: "We made a video about this"
+cover: "cover.jpg"
+video_url: ""
+video_title: ""
 ---
 
-## The logo trap
+## What is the halo effect?
 
-Here's something we see all the time: a founder walks into a conversation and says, "I need a logo." What they actually mean is, "I need people to take my business seriously." Those are two very different problems.
+It's this: when people notice one good thing about something, they assume the rest is good too.
 
-A logo is a symbol. It's a small piece of a much bigger puzzle. And when you treat it like the whole picture, you end up with something that looks fine on a business card but does absolutely nothing to help someone understand **who you are**, **what you stand for**, or **why they should care**.
+That's it.
 
-> A brand isn't what you say about yourself. It's the feeling someone gets before they've read a single word on your website.
+If a brand looks polished, we trust the product. If a website feels smooth, we believe the business is reliable. If someone walks in and speaks well, we think they're competent — before they've proved anything.
 
-## So what is a brand?
+One strong signal. And the brain fills in the rest generously.
 
-A brand is the full experience. It's the colours you choose and why. It's the way your website feels when someone scrolls through it. It's the voice you use in an Instagram caption and the silence you leave in a well-designed whitespace.
+> One good impression spills over quietly — and most people never notice it happening.
 
-It's consistency. It's intention. It's the reason two coffee shops can sell the same flat white, but one of them makes you feel something when you walk in.
+It works the other way too. One bad signal and suddenly everything feels off. That's called the horn effect. Same brain shortcut, opposite outcome.
 
-![A brand identity system laid out](images/brand-system.jpeg "A brand system is more than just a logo — it's an entire language.")
+## You've already seen this play out
 
-### The parts most people skip
+Think about ordering from Zomato.
 
-When we work on brand identity with a client, the logo usually comes last. We start with the parts that are harder to see but impossible to ignore:
+Two restaurants. Same price, similar menu. But one has clean photos, a neat listing, decent presentation. The other looks like the owner uploaded one blurry picture in 2019 and left it there.
 
-- **Positioning:** Where do you sit in someone's mind relative to everyone else?
-- **Voice:** How do you talk? Formal? Warm? Playful? Sharp?
-- **Visual system:** Colours, typography, spacing, imagery — the full toolkit.
-- **Feeling:** What emotion should someone walk away with?
+You pick the first one. Not because you verified anything. Just because it *felt* right.
 
-Once those are clear, the logo almost designs itself. Because it finally has something to say.
+That's the halo effect. No psychology degree needed to fall for it — we all do.
 
-## Why this matters for small businesses
+Tata is a big example. They make cars, salt, software, hotels — completely different things. But decades of trust in one area creates a halo that stretches across everything else they touch. When Tata enters something new, people already want to give it a chance.
 
-Big companies can afford to be forgettable in small moments because they make up for it in volume. You can't. When someone visits your website for the first time, your brand has about three seconds to make them feel something real — or they're gone.
+Apple India is the obvious one. People don't compare specs before buying. They buy the feeling — the packaging, the store, the way everything looks considered. And that feeling carries over to every product they release. People queue up before they've seen the thing.
 
-![Colour palette and typography samples](images/colour-typography.jpeg "Colour and type are the first things people feel before they read a word.")
+These aren't accidents. These brands understand that perception is the product, at least at first.
 
-That feeling doesn't come from a logo. It comes from every element working together with **intention**. The font that feels just right. The colour that sits perfectly against the background. The spacing that gives your words room to breathe.
+![How design and first impressions shape brand trust](images/halo-effect-branding.jpg "The halo effect in branding — perception before proof")
 
-We know this because we built our own brand the same way. Since That Friday didn't start with a logo. It started with a question: **how do we want people to feel when they find us?**
+## Why this matters so much in branding
 
-Everything else followed from there.
+Most people think branding is about logos and colour palettes. It's not.
+
+Branding is about shaping what people assume about you — before they've bought anything, read anything, or talked to you.
+
+The halo effect means you don't have to be great at everything right away. You just need to get *one thing* genuinely right. That becomes the signal. Everything else gets a lift from it.
+
+A slow, cluttered website doesn't just feel dated. It makes people quietly question your pricing, your quality, your reliability — even if none of that is actually a problem. The first impression creates the story. Everything else just fits into it.
+
+Flip it around. A clean, considered website makes your offer feel credible before anyone reads a word. Good typography makes content feel more trustworthy. Consistent visuals make a new brand feel established, even if you launched last month.
+
+This is why we always say: branding isn't decoration. It's information. It's what tells people what kind of business you are before you open your mouth.
+
+## Why it happens — the short version
+
+The brain is always trying to save energy.
+
+We're constantly taking in more information than we can consciously process. So we find shortcuts. One strong, reliable signal — and we use it to fill in everything we don't know yet. Psychologists call this a cognitive heuristic. We call it being human.
+
+It happens fast. Impressions form in seconds. And once they're formed, they're surprisingly hard to undo.
+
+For brands, this means the judgment often happens before your pitch even starts.
+
+![First impressions form before a word is read](images/first-impression-trust.jpg "Users decide quickly — make the first thing they see count")
+
+## The mistake we see all the time
+
+Founders put everything into the product and leave the first impression as an afterthought.
+
+"The work speaks for itself," they say.
+
+But people don't experience effort. They experience what's in front of them.
+
+If the first thing someone sees looks rushed — a messy website, inconsistent branding, a proposal that looks like a Google Doc from 2015 — that feeling sticks. It doesn't matter how strong the actual work is underneath.
+
+The fix isn't to fake quality. It's to be intentional about what people encounter first.
+
+Pick the one touchpoint that matters most for your audience. The website, the packaging, the social presence, the proposal — whatever that entry point is. Make that one thing genuinely good. Not perfect everywhere. Just excellent where it counts first.
+
+The halo does the rest.
+
+## So what do you actually do with this?
+
+Start with what people see before they've decided anything.
+
+For most businesses, that's the website. Make it clean and fast. Use consistent fonts and colours. Write like a human — short sentences, plain words, no filler. These feel like small things. They're not. They're trust signals.
+
+Then look at what comes second. Emails, proposals, social posts, how you show up on a call. Every touchpoint either adds to the halo or quietly chips away at it.
+
+You don't need to fix everything at once. That's not realistic and honestly not necessary. Just fix the entry point. Make the first thing excellent — and everything else gets easier.
 
 ## The takeaway
 
-If you're building a brand — or rebuilding one — don't start with the mark. Start with the meaning. Figure out what you stand for, how you want to sound, and what someone should feel in your presence. Then design everything around that truth.
+People don't evaluate your business from scratch every time.
 
-A logo is the last thing your brand needs. But it's the first thing people will notice once everything else is in place.
+They take one signal and build a story around it. That's just how perception works. The halo effect isn't going away.
+
+So the real question isn't whether your product is good.
+
+It's: **what's the first thing someone notices — and what does it make them assume?**
+
+Get that right. Everything else follows.
+
+---
+
+*We're Sam and Abi — a couple running Since That Friday, a creative tech studio in Chennai. We help businesses grow online through design, branding, and systems that actually work.*
