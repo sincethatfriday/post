@@ -1,8 +1,8 @@
 ---
-title: "What is AEO (and Why Your Content Needs to Think Beyond Google)"
-excerpt: "AEO stands for Answer Engine Optimisation — writing content so AI tools and search engines can pull a clean, direct answer from it. Here's what it means and what to actually do about it."
+title: "What is AEO — and Why Google Alone Isn't Enough Anymore"
+excerpt: "Answer Engine Optimisation is about writing content that AI tools can actually use. Here's what's changed, why it matters, and what to do about it."
 tag: growth
-published_at: "2026-04-22"
+published_at: "2026-04-07"
 read_time_minutes: 6
 authors:
   - Abi
@@ -22,8 +22,6 @@ faq:
     answer: "AEO can show results faster than traditional SEO because AI engines refresh their understanding of content more often than search engine crawlers. New, well-structured content can start appearing in AI answers within days or weeks, compared to months for traditional SEO ranking."
   - question: "Can I do AEO without doing SEO first?"
     answer: "You technically can, but it's not recommended. AI engines still need to discover your content somehow, and that discovery usually happens through traditional search indexing. Think of SEO as making your content findable, and AEO as making it quotable. You really need both."
-  - question: "What is FAQ schema and why does it matter for AEO?"
-    answer: "FAQ schema is a small block of structured data (JSON-LD) added to a webpage that tells search engines which parts of the page are questions and answers. It matters for AEO because pages with FAQ schema are far more likely to be pulled into Google's People Also Ask boxes and AI Overviews, dramatically increasing visibility."
 ---
 
 ## Something Has Quietly Changed About How People Search
@@ -40,17 +38,13 @@ AEO stands for Answer Engine Optimisation. It's the practice of writing and stru
 
 The goal of AEO is simple. When someone asks an AI a question your content could answer — your content should be the one it picks.
 
+
 ## How is AEO Different from SEO?
+SEO and AEO aren't opposites. They're cousins, really. Good SEO still matters — it's how AI tools find your content in the first place. But the goal of each is different, and that changes how you write.
 
-SEO and AEO aren't opposites. They're cousins, really. Good SEO still matters — it's how AI tools find your content in the first place. But the *goal* of each is different, and that changes how you write.
+**SEO is about winning a ranking.** You optimise for keywords, backlinks, and page authority. The result shows up on a search results page, where a user clicks your link. It rewards topic depth and authority.
 
-| | SEO | AEO |
-|---|---|---|
-| **What you're trying to win** | A ranking | A direct answer |
-| **What you optimise for** | Keywords, backlinks, page authority | Clarity, structure, specificity |
-| **Where the result shows up** | Search results page | AI summary or assistant reply |
-| **What a user does next** | Clicks your link | Reads the answer and moves on |
-| **What it rewards** | Topic depth and authority | Direct, quotable, well-structured answers |
+**AEO is about winning a direct answer.** You optimise for clarity, structure, and specificity. The result shows up in an AI summary or assistant reply — the user reads the answer and moves on. It rewards direct, quotable, well-structured content.
 
 The simplest way to think about it — SEO asks *can Google find and rank this page*. AEO asks *can an AI read this page and pull a clear, confident answer from it*. One is about visibility. The other is about being useful in a world where the search result itself is the destination.
 
@@ -66,7 +60,7 @@ It pulls from whoever wrote the clearest, most direct, most trustworthy answer o
 
 That's a real opportunity for smaller studios, indie founders, and creators who actually write well. The big sites with huge SEO teams don't automatically win in this new game. The ones who write clearly do.
 
-![A side-by-side showing a traditional search results page on the left and an AI overview answer on the right — the same query, two completely different ways of getting an answer](images/seo-vs-aeo.jpeg "The same question. Two completely different answer experiences.")
+![Answer Engine Overview](images/aeo.jpeg "The same question. Two completely different answer experiences.")
 
 ## How Do You Optimise Content for AEO?
 

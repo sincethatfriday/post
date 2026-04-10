@@ -1,8 +1,8 @@
 ---
-title: "What is the Halo Effect (and Why It Matters More Than You Think)"
-excerpt: "The halo effect is a mental shortcut where one good impression makes us assume everything else is also good. Here's how it quietly shapes the way people see your brand — with real Indian examples."
+title: "The Halo Effect: Why One Good Impression Changes Everything"
+excerpt: "One strong impression can make people trust your brand completely, without them even realising it."
 tag: branding
-published_at: "2026-04-15"
+published_at: "2026-04-10"
 read_time_minutes: 6
 authors:
   - Sam
@@ -48,15 +48,15 @@ This is why brands invest so much in *one* hero touchpoint — they know that ge
 
 Three Indian examples make this very clear.
 
-**Apple in India.** Someone buys an iPhone, and suddenly they're not just thinking *this is a nice phone*. They're thinking the AirPods must be great, the MacBook must be the best laptop out there, even the Apple Store experience must be top-class. Most of them have not actually tried half of those products. But the iPhone built such a strong impression that the glow spread to everything else with the Apple logo on it.
+**Apple -** Someone buys an iPhone, and suddenly they're not just thinking *this is a nice phone*. They're thinking the AirPods must be great, the MacBook must be the best laptop out there, even the Apple Store experience must be top-class. Most of them have not actually tried half of those products. But the iPhone built such a strong impression that the glow spread to everything else with the Apple logo on it.
 
-**Tata.** The name itself carries weight in this country. When Tata launched salt, people bought it partly *because* it said Tata. Same when they got into airlines, watches, coffee. Decades of trust in one part of the group quietly created a halo over every new category they entered. New product, same trust.
+**Tata -** The name itself carries weight in this country. When Tata launched salt, people bought it partly *because* it said Tata. Same when they got into airlines, watches, coffee. Decades of trust in one part of the group quietly created a halo over every new category they entered. New product, same trust.
 
-**Zomato.** Their social media has personality — funny, sharp, weirdly human for a corporate handle. That voice makes people feel like the whole company is more likeable. Even when your delivery is twenty minutes late, the brand voice somehow softens the irritation. That's a halo built entirely from how they talk.
+**Zomato -** Their social media has personality — funny, sharp, weirdly human for a corporate handle. That voice makes people feel like the whole company is more likeable. Even when your delivery is twenty minutes late, the brand voice somehow softens the irritation. That's a halo built entirely from how they talk.
 
 > The product can be average. But if the brand feels right, people will give it the benefit of the doubt.
 
-![Steve-Jobs-halo-effect](images/halo-brand-spread.jpeg "One strong impression carries everything else with it.")
+![Steve-Jobs](images/halo-brand-spread.jpeg "One strong impression carries everything else with it.")
 
 ## Why Does the Halo Effect Matter for Small Businesses?
 
