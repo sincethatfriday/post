@@ -7,8 +7,8 @@ read_time_minutes: 6
 authors:
   - Sam
 cover: "cover.jpeg"
-video_url: ""
-video_title: ""
+video_url: "https://youtu.be/zFWmIWf2SXs"
+video_title: "Related Video"
 faq:
   - question: "Is the halo effect a cognitive bias?"
     answer: "Yes, the halo effect is one of the most well-documented cognitive biases in psychology. It was first identified by Edward Thorndike in 1920 and refers to how one positive trait or impression influences our judgment of unrelated traits. It's why we assume good-looking people are also smart, or why a well-designed website makes us trust the business behind it."
